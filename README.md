@@ -1,0 +1,2 @@
+# plz-make-money
+fun
